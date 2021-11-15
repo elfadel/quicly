@@ -62,4 +62,4 @@ For more options, please refer to `./cli --help`.
 
 Note
 ---
-This repository is a forked of [quicly](https://github.com/h2o/quicly) project.
+This repository is a fork of [quicly](https://github.com/h2o/quicly) project.
